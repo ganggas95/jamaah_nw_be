@@ -4,3 +4,4 @@ migrations/
 .vscode
 *.pyc
 logs/
+data_export/
