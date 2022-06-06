@@ -13,7 +13,7 @@ bcrypt==3.1.7
 pandas==0.25.3
 xlsxwriter==1.2.7
 redis==3.3.11
-celery==4.4.0
+celery==5.2.2
 flask-celery==2.4.3
 kombu==4.6.7
 CeleryFlask>= 0.0.1
